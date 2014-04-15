@@ -1,21 +1,19 @@
 // editor with syntax hilighting is recommended (for example, notepad++ or textmate)
 
-accounts = {
+accounts = {TreatN}{McTeeHee}
 
 // Put your data here as shown below. Don't forget the commas and quotes!
 // If your emails or passwords contain single quotes,
 // escape them with backslashes (\) like this: 'pass\'word'
 
-
-'email': 'pass',
-'email2': 'pass2',
-
+spencerlime@yahoo.com/dumbofavela135790
+Favelamarcos@yahoo.com/dumbofavela1998
 
 }// don't delete this line!
 
 
 // how many characters are displayed in each row (within one account)
-rowlength = 7
+rowlength = 6,1
 
 // change to 1 to switch to testing
 testing = 0
@@ -28,4 +26,4 @@ mulelogin = 0
 
 // 0 = use smart layout (fill empty spaces)
 // 1 = show account boxes row by row
-nomasonry = 0
+nomasonry = 1
