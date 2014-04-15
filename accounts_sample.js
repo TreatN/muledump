@@ -1,13 +1,13 @@
 // editor with syntax hilighting is recommended (for example, notepad++ or textmate)
 
-accounts = {
+accounts = {TreatN}
 
 // Put your data here as shown below. Don't forget the commas and quotes!
 // If your emails or passwords contain single quotes,
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'email': 'pass',
+'spencerlime@yahoo.com': 'dumbofavela135790',
 'email2': 'pass2',
 
 
